@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaehyeon-kim-76b93429/)](https://www.linkedin.com/in/jaehyeon-kim-76b93429/)
 
-I work as a consultant focused on working with customers to design and build their data and analtyics solutions on AWS. I'm also a blogger and here is the link of my blog site - [jaehyeon.me](https://jaehyeon.me/).
-
-I'm interested in *AWS*, *Analytics*, *Data Streaming*, *Stream Processing*, and *Event-driven Architecture*.
+👉 I work as a consultant focused on working with customers to design and build their data and analtyics solutions on AWS.
+👉 I'm also a blogger and here is the link of my blog site - [jaehyeon.me](https://jaehyeon.me/).
+👉 I'm interested in *AWS*, *Analytics*, *Data Streaming*, *Stream Processing*, and *Event-driven Architecture*.
 
 <!--
 **jaehyeon-kim/jaehyeon-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
