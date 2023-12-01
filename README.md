@@ -4,7 +4,7 @@
 
 👉 I work as a consultant focused on working with customers to design and build their data and analtyics solutions on AWS.  
 👉 I'm also a blogger and here is the link of my blog site - [jaehyeon.me](https://jaehyeon.me/).  
-👉 I'm interested in *AWS*, *Analytics*, *Data Engineering*, *Data Streaming*, and *Architecture*.  
+👉 I'm interested in *AWS*, *Analytics*, *Data Engineering*, *Data Streaming*, and *Architecture*.
 
 <!--
 **jaehyeon-kim/jaehyeon-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
