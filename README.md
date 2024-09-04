@@ -7,7 +7,7 @@
 
 📝 I enjoy writing posts on *Data Engineering*, *Data Streaming*, *Analytics*, *Real-time Analytics*, and *Architecture*. See my posts on https://jaehyeon.me/. 
 
-❤️ I am a maintainer of an open source project called [Apache Beam Python I/O Connectors](https://github.com/beam-pyio), which develops [Apache Beam®](https://beam.apache.org/) I/O Connectors using the Python SDK.
+👯 I am a maintainer of an open source project called [Apache Beam Python I/O Connectors](https://github.com/beam-pyio), which develops [Apache Beam®](https://beam.apache.org/) I/O Connectors using the Python SDK.
 
 <!--
 **jaehyeon-kim/jaehyeon-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
