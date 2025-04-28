@@ -11,6 +11,8 @@ Learn more about Factor House's work: https://factorhouse.io/
 
 Also, I explore topics related to Kafka, Flink, and streaming data ecosystems on my blog: https://jaehyeon.me
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaehyeon-kim&theme=highcontrast)](https://git.io/streak-stats)
+
 <!--
 **jaehyeon-kim/jaehyeon-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
